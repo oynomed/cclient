@@ -1,4 +1,4 @@
-module github.com/Carcraftz/cclient
+module github.com/oynomed/cclient
 
 go 1.23.3
 
