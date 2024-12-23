@@ -1,9 +1,9 @@
 module github.com/Carcraftz/cclient
 
-go 1.16
+go 1.23.3
 
 require (
-	github.com/Carcraftz/utls v0.0.0-20210907185630-32782f880d54 // indirect
+	github.com/refraction-networking/utls // indirect
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad // indirect
 	golang.org/x/net v0.0.0-20210119194325-5f4716e94777
 	golang.org/x/sys v0.0.0-20210124154548-22da62e12c0c // indirect
